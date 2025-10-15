@@ -1,2 +1,2 @@
-# bilgi_y-netim_sistemi
-Spring Boot + MySQL bilgi_yönetim_sistemi
+# akilli_kutuphane_yonetim_sistemi
+Flask + MySQL akilli_kutuphane_yonetim_sistemi
